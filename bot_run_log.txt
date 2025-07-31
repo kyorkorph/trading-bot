@@ -1,0 +1,400 @@
+
+=== 2025-07-31 11:21:08.001956 BOT RUN ===
+Return code: 0
+Output: 🚀 Starting ultimate trading system...
+🚀 ULTIMATE TRADING SYSTEM STARTED
+==================================================
+🎯 Strategy: Leading Indicators + ML + Risk Management
+💰 Account: $100,000
+📈 Asset: Gold Futures (GC=F)
+⏰ Timeframe: 15-minute
+🛡️ Risk: Advanced Management
+🤖 ML: Active
+✅ Ultimate system startup message sent!
+✅ Got 4394 data points
+✅ ML model trained successfully
+⏳ No missed signals detected
+✅ Ultimate trading cycle complete!
+
+Errors: /Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:91: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Close': float(row['Close']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:92: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Volume': float(row['Volume']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:93: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'High': float(row['High']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:94: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Low': float(row['Low']),
+
+
+=== 2025-07-31 11:21:42.979335 BOT RUN ===
+Return code: 0
+Output: 🚀 Starting ultimate trading system...
+🚀 ULTIMATE TRADING SYSTEM STARTED
+==================================================
+🎯 Strategy: Leading Indicators + ML + Risk Management
+💰 Account: $100,000
+📈 Asset: Gold Futures (GC=F)
+⏰ Timeframe: 15-minute
+🛡️ Risk: Advanced Management
+🤖 ML: Active
+✅ Ultimate system startup message sent!
+✅ Got 4356 data points
+✅ ML model trained successfully
+✅ Missed signals alert sent!
+✅ Ultimate trading cycle complete!
+
+Errors: /Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:91: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Close': float(row['Close']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:92: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Volume': float(row['Volume']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:93: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'High': float(row['High']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:94: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Low': float(row['Low']),
+
+
+=== 2025-07-31 11:23:24.933840 BOT RUN ===
+Return code: 0
+Output: 🚀 Starting ultimate trading system...
+🚀 ULTIMATE TRADING SYSTEM STARTED
+==================================================
+🎯 Strategy: Leading Indicators + ML + Risk Management
+💰 Account: $100,000
+📈 Asset: Gold Futures (GC=F)
+⏰ Timeframe: 15-minute
+🛡️ Risk: Advanced Management
+🤖 ML: Active
+✅ Ultimate system startup message sent!
+✅ Got 4351 data points
+✅ ML model trained successfully
+✅ Missed signals alert sent!
+✅ Ultimate trading cycle complete!
+
+Errors: /Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:91: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Close': float(row['Close']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:92: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Volume': float(row['Volume']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:93: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'High': float(row['High']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:94: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Low': float(row['Low']),
+
+
+=== 2025-07-31 11:24:23.972845 BOT RUN ===
+Return code: 0
+Output: 🚀 Starting ultimate trading system...
+🚀 ULTIMATE TRADING SYSTEM STARTED
+==================================================
+🎯 Strategy: Leading Indicators + ML + Risk Management
+💰 Account: $100,000
+📈 Asset: Gold Futures (GC=F)
+⏰ Timeframe: 15-minute
+🛡️ Risk: Advanced Management
+🤖 ML: Active
+✅ Ultimate system startup message sent!
+✅ Got 4404 data points
+✅ ML model trained successfully
+⏳ No missed signals detected
+✅ Ultimate trading cycle complete!
+
+Errors: /Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:91: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Close': float(row['Close']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:92: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Volume': float(row['Volume']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:93: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'High': float(row['High']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:94: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Low': float(row['Low']),
+
+
+=== 2025-07-31 11:25:48.437790 BOT RUN ===
+Return code: 0
+Output: 🚀 Starting ultimate trading system...
+🚀 ULTIMATE TRADING SYSTEM STARTED
+==================================================
+🎯 Strategy: Leading Indicators + ML + Risk Management
+💰 Account: $100,000
+📈 Asset: Gold Futures (GC=F)
+⏰ Timeframe: 15-minute
+🛡️ Risk: Advanced Management
+🤖 ML: Active
+✅ Ultimate system startup message sent!
+❌ No data received
+
+Errors: 
+1 Failed download:
+['GC=F']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+
+
+=== 2025-07-31 11:28:21.252393 BOT RUN ===
+Return code: 0
+Output: 🚀 Starting ultimate trading system...
+🚀 ULTIMATE TRADING SYSTEM STARTED
+==================================================
+🎯 Strategy: Leading Indicators + ML + Risk Management
+💰 Account: $100,000
+📈 Asset: Gold Futures (GC=F)
+⏰ Timeframe: 15-minute
+🛡️ Risk: Advanced Management
+🤖 ML: Active
+✅ Ultimate system startup message sent!
+✅ Got 4405 data points
+✅ ML model trained successfully
+⏳ No missed signals detected
+✅ Ultimate trading cycle complete!
+
+Errors: /Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:91: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Close': float(row['Close']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:92: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Volume': float(row['Volume']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:93: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'High': float(row['High']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:94: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Low': float(row['Low']),
+
+
+=== 2025-07-31 11:33:17.182534 BOT RUN ===
+Return code: 0
+Output: 🚀 Starting ultimate trading system...
+🚀 ULTIMATE TRADING SYSTEM STARTED
+==================================================
+🎯 Strategy: Leading Indicators + ML + Risk Management
+💰 Account: $100,000
+📈 Asset: Gold Futures (GC=F)
+⏰ Timeframe: 15-minute
+🛡️ Risk: Advanced Management
+🤖 ML: Active
+✅ Ultimate system startup message sent!
+✅ Got 4357 data points
+✅ ML model trained successfully
+✅ Missed signals alert sent!
+✅ Ultimate trading cycle complete!
+
+Errors: /Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:91: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Close': float(row['Close']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:92: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Volume': float(row['Volume']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:93: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'High': float(row['High']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:94: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Low': float(row['Low']),
+
+
+=== 2025-07-31 11:35:32.973376 BOT RUN ===
+Return code: 0
+Output: 🚀 Starting ultimate trading system...
+🚀 ULTIMATE TRADING SYSTEM STARTED
+==================================================
+🎯 Strategy: Leading Indicators + ML + Risk Management
+💰 Account: $100,000
+📈 Asset: Gold Futures (GC=F)
+⏰ Timeframe: 15-minute
+🛡️ Risk: Advanced Management
+🤖 ML: Active
+✅ Ultimate system startup message sent!
+✅ Got 4405 data points
+✅ ML model trained successfully
+⏳ No missed signals detected
+✅ Ultimate trading cycle complete!
+
+Errors: /Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:91: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Close': float(row['Close']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:92: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Volume': float(row['Volume']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:93: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'High': float(row['High']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:94: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Low': float(row['Low']),
+
+
+=== 2025-07-31 11:40:04.564233 BOT RUN ===
+Return code: 0
+Output: 🚀 Starting ultimate trading system...
+🚀 ULTIMATE TRADING SYSTEM STARTED
+==================================================
+🎯 Strategy: Leading Indicators + ML + Risk Management
+💰 Account: $100,000
+📈 Asset: Gold Futures (GC=F)
+⏰ Timeframe: 15-minute
+🛡️ Risk: Advanced Management
+🤖 ML: Active
+✅ Ultimate system startup message sent!
+✅ Got 4405 data points
+✅ ML model trained successfully
+⏳ No missed signals detected
+✅ Ultimate trading cycle complete!
+
+Errors: /Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:91: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Close': float(row['Close']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:92: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Volume': float(row['Volume']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:93: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'High': float(row['High']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:94: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Low': float(row['Low']),
+
+
+=== 2025-07-31 11:40:23.823474 BOT RUN ===
+Return code: 0
+Output: 🚀 Starting ultimate trading system...
+🚀 ULTIMATE TRADING SYSTEM STARTED
+==================================================
+🎯 Strategy: Leading Indicators + ML + Risk Management
+💰 Account: $100,000
+📈 Asset: Gold Futures (GC=F)
+⏰ Timeframe: 15-minute
+🛡️ Risk: Advanced Management
+🤖 ML: Active
+✅ Ultimate system startup message sent!
+✅ Got 4393 data points
+✅ ML model trained successfully
+⏳ No missed signals detected
+✅ Ultimate trading cycle complete!
+
+Errors: /Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:91: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Close': float(row['Close']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:92: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Volume': float(row['Volume']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:93: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'High': float(row['High']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:94: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Low': float(row['Low']),
+
+
+=== 2025-07-31 11:40:42.483761 BOT RUN ===
+Return code: 0
+Output: 🚀 Starting ultimate trading system...
+🚀 ULTIMATE TRADING SYSTEM STARTED
+==================================================
+🎯 Strategy: Leading Indicators + ML + Risk Management
+💰 Account: $100,000
+📈 Asset: Gold Futures (GC=F)
+⏰ Timeframe: 15-minute
+🛡️ Risk: Advanced Management
+🤖 ML: Active
+✅ Ultimate system startup message sent!
+✅ Got 4351 data points
+✅ ML model trained successfully
+✅ Missed signals alert sent!
+✅ Ultimate trading cycle complete!
+
+Errors: /Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:91: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Close': float(row['Close']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:92: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Volume': float(row['Volume']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:93: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'High': float(row['High']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:94: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Low': float(row['Low']),
+
+
+=== 2025-07-31 11:41:36.308588 BOT RUN ===
+Return code: 0
+Output: 🚀 Starting ultimate trading system...
+🚀 ULTIMATE TRADING SYSTEM STARTED
+==================================================
+🎯 Strategy: Leading Indicators + ML + Risk Management
+💰 Account: $100,000
+📈 Asset: Gold Futures (GC=F)
+⏰ Timeframe: 15-minute
+🛡️ Risk: Advanced Management
+🤖 ML: Active
+✅ Ultimate system startup message sent!
+❌ No data received
+
+Errors: 
+1 Failed download:
+['GC=F']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+
+
+=== 2025-07-31 11:41:42.669014 BOT RUN ===
+Return code: 0
+Output: 🚀 Starting ultimate trading system...
+🚀 ULTIMATE TRADING SYSTEM STARTED
+==================================================
+🎯 Strategy: Leading Indicators + ML + Risk Management
+💰 Account: $100,000
+📈 Asset: Gold Futures (GC=F)
+⏰ Timeframe: 15-minute
+🛡️ Risk: Advanced Management
+🤖 ML: Active
+✅ Ultimate system startup message sent!
+✅ Got 4406 data points
+✅ ML model trained successfully
+⏳ No missed signals detected
+✅ Ultimate trading cycle complete!
+
+Errors: /Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:91: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Close': float(row['Close']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:92: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Volume': float(row['Volume']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:93: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'High': float(row['High']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:94: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Low': float(row['Low']),
+
+
+=== 2025-07-31 11:42:07.661926 BOT RUN ===
+Return code: 0
+Output: 🚀 Starting ultimate trading system...
+🚀 ULTIMATE TRADING SYSTEM STARTED
+==================================================
+🎯 Strategy: Leading Indicators + ML + Risk Management
+💰 Account: $100,000
+📈 Asset: Gold Futures (GC=F)
+⏰ Timeframe: 15-minute
+🛡️ Risk: Advanced Management
+🤖 ML: Active
+✅ Ultimate system startup message sent!
+❌ No data received
+
+Errors: 
+1 Failed download:
+['GC=F']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+
+
+=== 2025-07-31 11:42:08.444529 BOT RUN ===
+Return code: 0
+Output: 🚀 Starting ultimate trading system...
+🚀 ULTIMATE TRADING SYSTEM STARTED
+==================================================
+🎯 Strategy: Leading Indicators + ML + Risk Management
+💰 Account: $100,000
+📈 Asset: Gold Futures (GC=F)
+⏰ Timeframe: 15-minute
+🛡️ Risk: Advanced Management
+🤖 ML: Active
+✅ Ultimate system startup message sent!
+❌ No data received
+
+Errors: 
+1 Failed download:
+['GC=F']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+
+
+=== 2025-07-31 11:46:36.181662 BOT RUN ===
+Return code: 0
+Output: 🚀 Starting ultimate trading system...
+🚀 ULTIMATE TRADING SYSTEM STARTED
+==================================================
+🎯 Strategy: Leading Indicators + ML + Risk Management
+💰 Account: $100,000
+📈 Asset: Gold Futures (GC=F)
+⏰ Timeframe: 15-minute
+🛡️ Risk: Advanced Management
+🤖 ML: Active
+✅ Ultimate system startup message sent!
+✅ Got 4406 data points
+✅ ML model trained successfully
+⏳ No missed signals detected
+✅ Ultimate trading cycle complete!
+
+Errors: /Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:91: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Close': float(row['Close']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:92: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Volume': float(row['Volume']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:93: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'High': float(row['High']),
+/Users/edisonlin/Documents/Quant Trading/ultimate_trading_system.py:94: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
+  'Low': float(row['Low']),
+

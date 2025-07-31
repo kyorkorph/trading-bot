@@ -1,0 +1,40 @@
+{
+  "total_trades": 4,
+  "winning_trades": 3,
+  "total_pnl": 152.32049560546875,
+  "current_balance": 100152.32049560547,
+  "daily_pnl": 152.32049560546875,
+  "last_trade_date": null,
+  "signals_today": 0,
+  "missed_signals": 4,
+  "max_drawdown": 0.15208883314106772,
+  "sharpe_ratio": 0.7423074889580903,
+  "trade_history": [
+    {
+      "signal": "SELL",
+      "price": 3384.89990234375,
+      "pnl": 67.697998046875,
+      "timestamp": "2025-07-30 07:30:00+00:00"
+    },
+    {
+      "signal": "SELL",
+      "price": 3384.89990234375,
+      "pnl": 67.697998046875,
+      "timestamp": "2025-07-30 07:30:00+00:00"
+    },
+    {
+      "signal": "SELL",
+      "price": 3384.89990234375,
+      "pnl": -50.77349853515625,
+      "timestamp": "2025-07-30 07:30:00+00:00"
+    },
+    {
+      "signal": "SELL",
+      "price": 3384.89990234375,
+      "pnl": 67.697998046875,
+      "timestamp": "2025-07-30 07:30:00+00:00"
+    }
+  ],
+  "ml_predictions": 0,
+  "ml_accuracy": 0
+}
