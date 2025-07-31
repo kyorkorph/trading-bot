@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: trading-bot
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python render_bot.py
+    plan: free
+    region: oregon
+    healthCheckPath: /
+    autoDeploy: true
